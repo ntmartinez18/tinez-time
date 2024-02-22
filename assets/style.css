@@ -3,10 +3,9 @@
 }
 
 body {
-    background-color: pink;
+    background-color: rgb(244, 209, 215);
 }
 
-header {
+section {
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
