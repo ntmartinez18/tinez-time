@@ -9,3 +9,7 @@ body {
 section {
     text-align: center;
 }
+
+li {
+    display: inline;
+  }
